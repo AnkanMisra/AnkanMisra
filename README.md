@@ -5,9 +5,9 @@
 ![All](https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanmisra&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmisra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankanmisra&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmisra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankanmisra" alt="ankanmisra" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankanmisra" alt="ankanmisra" /></a> </p>
 
 - 🔭 I’m currently working on [Weather Predictor](https://github.com/AnkanMisra/Weather-Predictor-AI-ML)
 
