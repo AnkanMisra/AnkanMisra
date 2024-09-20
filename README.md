@@ -1,6 +1,5 @@
 <h1 align="center">Wassup 😉, I'm Ankan Misra</h1>
 <h3 align="center">Swift/IOS Developer, Part time AI/ML Enthusiast</h3>
-![8408082](https://github.com/user-attachments/assets/5b76d5a7-1645-459b-811b-eac2cef32711)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanmisra&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmisra" /> </p>
 
