@@ -6,10 +6,9 @@
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/its-nishant320/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
 </p>
   
 <p align="center">
