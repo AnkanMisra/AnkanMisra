@@ -6,9 +6,9 @@
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="badge gif" class="z-modal-6 h-[120px] w-[120px]">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="badge gif" height="200" width="200">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" height="200" width="200">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="badge gif" height="200" width="200">
 </p>
   
 <p align="center">
