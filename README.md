@@ -9,6 +9,7 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="badge gif" height="200" width="200">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="badge gif" height="200" width="200">
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="badge gif" height="200" width="200">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="badge gif" height="200" width="200">
 </p>
   
 <p align="center">
