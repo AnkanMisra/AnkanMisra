@@ -6,7 +6,7 @@
 
 <h2 align="center">🐍 Contributions 🐍</h2>
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AnkanMisra/AnkanMisra/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </p>
 
 <h2 align="center">Leetcode Info</h2>
