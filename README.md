@@ -4,11 +4,6 @@
   <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="All Image" />
 </p>
 
-<!-- Visitor Count -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=AnkanMisra.AnkanMisra" alt="Profile Visitor Count" />
-</p>
-
 <h2 align="center">Leetcode Info</h2>
 <p align="center">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="badge gif" height="200" width="200">
