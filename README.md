@@ -1,8 +1,12 @@
-<h1 align="center">What up 😉, I'm Ankan Misra</h1>
-<h3 align="center">Swift/IOS Developer, Part time AI/ML Enthusiast</h3>
+<h1 align="center">I'm Ankan Misra</h1>
+<h3 align="center"></h3>
 
 
 ![All](https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93)
+
+<h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div> 
 
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
