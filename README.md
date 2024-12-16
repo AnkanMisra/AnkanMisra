@@ -6,9 +6,11 @@
 <!-- Display an image (replace the URL or alt text as needed) -->
 ![All](https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93)
 
-<h2>🐍 Contributions 🐍</h2>
-<!-- This shows a snake eating contributions grid -->
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+<h2 align="center">🐍 Contributions 🐍</h2>
+<p align="center">
+  <img alt="snake eating my contributions" 
+       src="https://raw.githubusercontent.com/AnkanMisra/AnkanMisra/output/github-contribution-grid-snake.svg" />
+</p>
 
 <h2 align="center">Leetcode Info</h2>
 <p align="center">
