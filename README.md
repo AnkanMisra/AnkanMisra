@@ -76,11 +76,14 @@
   </a>
 </p>
 
-<p align="center">
+
+<!-- Github Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
   <a href="https://github.com/AnkanMisra">
-    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanMisra&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=6" alt="GitHub Trophies" />
   </a>
-</p>
+</div>
 
 ---
 
