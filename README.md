@@ -38,12 +38,13 @@
       top: 10px;
       left: 15px;
     ">
+      <div style="text-align: center;">
    <span style="display: block; text-align: center; font-style: italic;">
       
       Programming is at least as difficult as developing a mathematical theory.
       
   </span>
-
+</div>
   </blockquote>
 </p>
 
