@@ -40,12 +40,11 @@
     ">
       “
     </span>
-
-    <!-- Main Quote Text -->
     <span style="display: block; margin-left: 2em; font-style: italic;">
+      
       Programming is at least as difficult as developing a mathematical theory.
+      
     </span>
-
     <!-- Author -->
     <div style="text-align: right; margin-top: 1.5em; font-weight: bold; font-size: 0.9em;">
       - Daniel T. Barry
