@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi, I'm Ankan Misra</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="300" style="border-radius:50%;" />
+  <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="600" />
 </p>
 
 
