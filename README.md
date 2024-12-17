@@ -140,5 +140,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <em>```“Code. Create. Innovate.”```</em>
+  <em>“Code. Create. Innovate.”</em>
 </p>
