@@ -38,12 +38,12 @@
       top: 10px;
       left: 15px;
     ">
-    </span>
-    <span style="display: block; text-align: center; font-style: italic;">
+   <span style="display: block; text-align: center; font-style: italic;">
       
-  ```Programming is at least as difficult as developing a mathematical theory.```
-  
-</span>
+      Programming is at least as difficult as developing a mathematical theory.
+      
+  </span>
+
   </blockquote>
 </p>
 
