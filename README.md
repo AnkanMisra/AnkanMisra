@@ -56,13 +56,13 @@
   <a href="https://www.linkedin.com/in/ankanmisra/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ankanmisra@example.com">
+  <a href="mailto:misra13arko@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <h2 align="center">🐍 Contributions 🐍</h2>
 <p align="center">
-  Adding SOON !
+  #Adding SOON !
   <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
 </p>
