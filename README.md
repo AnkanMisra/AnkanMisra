@@ -2,11 +2,6 @@
 <h1 align="center">👋 Hi, I'm Ankan Misra</h1>
 
 <p align="center">
-  <!-- Profile Views Badge -->
-  <img src="https://komarev.com/ghpvc/?username=AnkanMisra&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile Views" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="300" style="border-radius:50%;" />
 </p>
 
@@ -18,11 +13,18 @@
   🚀 Tech enthusiast who loves iOS, Web Development, and AI-based solutions
 </p>
 
-<!-- Quote -->
+<!-- Quote Section -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <blockquote style="background-color:#181A1B; color:#00FFEF; padding:1em; border-radius:8px; max-width:600px; margin:auto;">
+    <span style="font-style: italic; font-size:1.1em;">
+      “Programming is at least as difficult as developing a mathematical theory.”
+    </span>
+    <br/><br/>
+    <span style="float:right; font-weight:bold;">
+      - Daniel T. Barry
+    </span>
+  </blockquote>
 </p>
-
 ---
 
 <!-- LeetCode Section -->
