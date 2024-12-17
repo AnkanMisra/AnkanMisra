@@ -17,33 +17,47 @@
 <!-- Quote Section -->
 <p align="center" style="margin: 2em 0;">
   <blockquote style="
-    background: linear-gradient(135deg, #202226 0%, #181A1B 100%);
-    color: #00EFFF;
-    padding: 1.5em;
+    position: relative;
+    background-color: #1c1f24;
+    color: #d1d5da;
+    padding: 1.5em 2em;
     border-radius: 8px;
     max-width: 600px;
     margin: auto;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    text-align: left;
+    border-left: 6px solid #00EFFF;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.15em;
+    line-height: 1.6;
+    text-align: left;
   ">
-    <span style="font-style: italic; font-size:1.2em; line-height:1.6;">
-      “Programming is at least as difficult as developing a mathematical theory.”
+    <!-- Decorative Quote Mark -->
+    <span style="
+      font-family: serif; 
+      font-size: 3em; 
+      color: #00EFFF; 
+      position: absolute; 
+      top: -10px; 
+      left: 10px;
+    ">“</span>
+
+    <span style="display: block; margin-left: 0.5em; font-style: italic;">
+      Programming is at least as difficult as developing a mathematical theory.
     </span>
     <br/><br/>
-    <span style="float: right; font-weight: bold; font-size: 1em;">
+    <span style="font-weight: bold; float: right; font-size: 0.9em;">
       - Daniel T. Barry
     </span>
   </blockquote>
 </p>
+
 <!-- LeetCode Section -->
 <h2 align="center">📈 LeetCode Stats</h2>
 <p align="center">
   <!-- LeetCode Badges -->
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="90" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="90" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Month Badge" height="90" />
-  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="90" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="150" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="150" />
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Month Badge" height="150" />
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="150" />
 </p>
 <p align="center">
   <a href="https://leetcode.com/ankanmisra" target="_blank">
