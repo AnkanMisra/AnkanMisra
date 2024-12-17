@@ -38,9 +38,9 @@
       top: 10px;
       left: 15px;
     ">
-      “
     </span>
     <span style="display: block; margin-left: 2em; font-style: italic;">
+      
       Programming is at least as difficult as developing a mathematical theory.
   </span>
   </blockquote>
