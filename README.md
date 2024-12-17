@@ -86,11 +86,11 @@
 
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <a href="https://github.com/AnkanMisra">
+<div style="text-align: center;">
+  <a href="https://github.com/AnkanMisra" style="display: inline-block;">
     <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=6" alt="GitHub Trophies" />
   </a>
-</p>
+</div>
 
 ---
 
