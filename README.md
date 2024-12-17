@@ -15,18 +15,27 @@
 </p>
 
 <!-- Quote Section -->
-<p align="center">
-  <blockquote style="background-color:#181A1B; color:#00FFEF; padding:1em; border-radius:8px; max-width:600px; margin:auto;">
-    <span style="font-style: italic; font-size:1.1em;">
+<p align="center" style="margin: 2em 0;">
+  <blockquote style="
+    background: linear-gradient(135deg, #202226 0%, #181A1B 100%);
+    color: #00EFFF;
+    padding: 1.5em;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  ">
+    <span style="font-style: italic; font-size:1.2em; line-height:1.6;">
       “Programming is at least as difficult as developing a mathematical theory.”
     </span>
     <br/><br/>
-    <span style="float:right; font-weight:bold;">
+    <span style="float: right; font-weight: bold; font-size: 1em;">
       - Daniel T. Barry
     </span>
   </blockquote>
 </p>
-
 <!-- LeetCode Section -->
 <h2 align="center">📈 LeetCode Stats</h2>
 <p align="center">
