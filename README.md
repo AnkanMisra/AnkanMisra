@@ -28,25 +28,28 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1.15em;
     line-height: 1.6;
-    text-align: left;
   ">
     <!-- Decorative Quote Mark -->
     <span style="
-      font-family: serif; 
-      font-size: 3em; 
-      color: #00EFFF; 
-      position: absolute; 
-      top: -10px; 
-      left: 10px;
-    ">“</span>
+      font-family: serif;
+      font-size: 2.5em;
+      color: #00EFFF;
+      position: absolute;
+      top: 10px;
+      left: 15px;
+    ">
+      “
+    </span>
 
-    <span style="display: block; margin-left: 0.5em; font-style: italic;">
+    <!-- Main Quote Text -->
+    <span style="display: block; margin-left: 2em; font-style: italic;">
       Programming is at least as difficult as developing a mathematical theory.
     </span>
-    <br/><br/>
-    <span style="font-weight: bold; float: right; font-size: 0.9em;">
+
+    <!-- Author -->
+    <div style="text-align: right; margin-top: 1.5em; font-weight: bold; font-size: 0.9em;">
       - Daniel T. Barry
-    </span>
+    </div>
   </blockquote>
 </p>
 
