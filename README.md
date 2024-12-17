@@ -12,7 +12,7 @@
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="badge gif" height="200" width="200">
 </p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AnkanMisra?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap"/>
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/AnkanMisra)
 </p>
 
 <h2 align="center">⚡ Current Stats ⚡</h2>
