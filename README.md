@@ -79,23 +79,13 @@
 
 <!-- Github Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
-<div style="display: flex; justify-content: center; margin: 20px 0;">
+<p align="center">
   <a href="https://github.com/AnkanMisra">
     <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=6" alt="GitHub Trophies" />
   </a>
-</div>
+</p>
 
 ---
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div style="display: flex; justify-content: center; margin: 20px 0;">
-  <a href="https://github.com/AnkanMisra">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&row=2&column=6" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 <!-- Projects & Achievements -->
 <h2 align="center">🚀 Projects & Achievements</h2>
 <ul align="center" style="list-style:none;">
