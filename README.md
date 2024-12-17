@@ -64,48 +64,18 @@
 </p>
 
 ---
-
-<!-- GitHub Stats Section -->
+<!-- GitHub Stats -->
 <h2 align="center">⚡ GitHub Stats</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <!-- GitHub Overview Stats -->
+<p align="center">
   <a href="https://github.com/AnkanMisra">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=AnkanMisra&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
-      alt="AnkanMisra's GitHub Stats" 
-      style="max-width: 100%; height: auto;" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnkanMisra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-
-  <!-- Top Languages -->
   <a href="https://github.com/AnkanMisra">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanMisra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-      alt="AnkanMisra's Top Languages" 
-      style="max-width: 100%; height: auto;" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanMisra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
   </a>
+</p>
 
-</div>
-
-<!-- GitHub Streak Section -->
-<h2 align="center">🔥 GitHub Streak</h2>
-<div align="center">
-  <a href="https://github.com/AnkanMisra">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AnkanMisra&theme=tokyonight&hide_border=true&stroke=F7AB0A" 
-      alt="AnkanMisra's GitHub Streak" />
-  </a>
-</div>
-
-<!-- Additional Stats: GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<div align="center">
-  <a href="https://github.com/AnkanMisra">
-    <img 
-      src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" 
-      alt="AnkanMisra's GitHub Trophies" />
-  </a>
-</div>
+---
 
 
 <!-- Github Trophies -->
