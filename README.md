@@ -12,7 +12,9 @@
   <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="badge gif" height="200" width="200">
 </p>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ankanmisra" alt="Leetcode Stats" />
+ <a href="https://leetcode.com/ankanmisra" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/ankanmisra" alt="Leetcode Stats" />
+    </a>
 </p>
 
 <h2 align="center">⚡ Current Stats ⚡</h2>
