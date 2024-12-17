@@ -105,9 +105,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
+<!--
 <h2 align="center">🐍 Contributions 🐍</h2>
 <p align="center">
   #Adding SOON !
-  <!--img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> -->
+  img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
 </p>
+-->
