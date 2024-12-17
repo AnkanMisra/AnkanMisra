@@ -13,7 +13,7 @@
 </p>
 <p align="center">
  <a href="https://leetcode.com/ankanmisra" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/ankanmisra" alt="Leetcode Stats" />
+        <img src="![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)" alt="Leetcode Stats" />
     </a>
 </p>
 
