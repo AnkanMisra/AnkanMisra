@@ -25,7 +25,6 @@
     </span>
   </blockquote>
 </p>
----
 
 <!-- LeetCode Section -->
 <h2 align="center">📈 LeetCode Stats</h2>
