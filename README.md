@@ -29,7 +29,10 @@
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/AnkanMisra">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" 
+         alt="GitHub Trophies" />
+  </a>
 </p>
 
 <!-- WakaTime Stats (Optional: Requires WakaTime account and username) -->
