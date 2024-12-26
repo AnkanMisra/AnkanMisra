@@ -10,7 +10,7 @@
 <p align="center">
   🎓 Second-year undergraduate in Computer Science and Business Systems <br/>
   👨‍💻 Passionate about coding, competitive programming, and building innovative projects <br/>
-  🚀 Tech enthusiast who loves iOS, Web Development, and AI-based solutions
+  🚀 Tech enthusiast who loves iOS, Web and React-Native Development, and AI-based solutions
 </p>
 
 <!-- Quote Section -->
