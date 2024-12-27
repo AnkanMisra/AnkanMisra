@@ -9,7 +9,7 @@
 <h2 align="center">✨ About Me</h2>
 <p align="center">
   🎓 Second-year undergraduate in Computer Science and Business Systems <br/>
-  👨‍💻 Passionate about coding, competitive programming, and building innovative projects <br/>
+  👨‍💻 Enthusiastic about coding, excelling in competitive programming, and creating innovative projects <br/>
   🚀 Tech enthusiast who loves iOS, Web and React-Native Development, and AI-based solutions
 </p>
 
