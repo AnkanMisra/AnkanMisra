@@ -67,7 +67,7 @@
 <h2 align="center">⚡ GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/AnkanMisra">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnkanMisra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnkanMisra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Pic" />
   </a>
   <a href="https://github.com/AnkanMisra">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanMisra&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
