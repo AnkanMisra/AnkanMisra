@@ -89,7 +89,7 @@
 <!-- Projects & Achievements -->
 <h2 align="center">🚀 Projects & Achievements</h2>
 <ul align="center" style="list-style:none;">
-  <li>✅ Built a end to end Image Gallery App using Flick'r Api</li>
+  <li>🏞️ Built a end to end Image Gallery App using Flick'r Api</li>
   <li>✅ Built a drone-based construction progress monitoring system.</li>
   <li>⚙️ Working on an online multiplayer UNO web game.</li>
   <li>🏆 Top 10 in a local college hackathon with a real-time chat app.</li>
