@@ -64,7 +64,7 @@
 
 ---
 <!-- GitHub Stats -->
-<h2 align="center">⚡ GitHub Stats</h2>
+<h2 align="center">⚡ All GitHub Stats</h2>
 <p align="center">
   <a href="https://github.com/AnkanMisra">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnkanMisra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats Pic" />
