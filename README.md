@@ -51,17 +51,18 @@
 <h2 align="center">📈 LeetCode Stats</h2>
 <p align="center">
 <!-- LeetCode Badges -->
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="200" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="200" />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Month Badge" height="200" />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="200" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="150" />
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="150" />
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Month Badge" height="150" />
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="150" />
 
 <p align="center">
   <a href="https://leetcode.com/ankanmisra" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ankanmisra?ext=heatmap&theme=dark" alt="LeetCode Stats" />
-    <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest" alt="Leetcode Stats (lapor)" />
+    <img src="https://leetcard.jacoblin.cool/ankanmisra?ext=heatmap&theme=dark" alt="LeetCode Stats" height="300" />
+    <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest" alt="Leetcode Stats (lapor)" height="300" />
   </a>
 </p>
+
 
 
 ---
