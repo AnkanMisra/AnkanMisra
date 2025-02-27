@@ -59,9 +59,10 @@
 <p align="center">
   <a href="https://leetcode.com/ankanmisra" target="_blank">
     <img src="https://leetcard.jacoblin.cool/ankanmisra?ext=heatmap&theme=dark" alt="LeetCode Stats" />
-    <img src="https://leetcard.jacoblin.cool/misra2004?ext=heatmap" alt="LeetCode Stats (misra2004)" />
+    <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest" alt="Leetcode Stats (lapor)" />
   </a>
 </p>
+
 
 ---
 <!-- GitHub Stats -->
