@@ -53,6 +53,7 @@
 <!-- LeetCode Badges -->
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="150" />
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="150" />
+<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" height="150" />
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Month Badge" height="150" />
 <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="150" />
 
