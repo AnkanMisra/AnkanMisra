@@ -50,7 +50,7 @@
 <h2 align="center">📊 GitHub Activity</h2>
 <p align="center">
   <a href="https://github.com/AnkanMisra">
-    <img alt="Ankan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AnkanMisra&theme=tokyo-night&hide_border=true" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=AnkanMisra&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
 
