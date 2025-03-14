@@ -10,7 +10,7 @@
 <p align="center">
   🎓 Second-year UG in Computer Science and Business Systems <br/>
   👨‍💻 Enthusiastic about coding, excelling in competitive programming, and creating innovative projects <br/>
-  🚀 Tech enthusiast who loves iOS, Web and React-Native Development, and AI-based solutions
+  🚀 Tech enthusiast who loves IOS, Web and React-Native Development, and AI-based solutions
 </p>
 
 <!-- Quote Section -->
