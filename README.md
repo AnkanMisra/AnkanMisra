@@ -59,7 +59,7 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://leetcode.com/ankanmisra" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/ankanmisra?ext=heatmap&theme=dark" alt="LeetCode Stats" height="300" />
+    <img src="https://leetcard.jacoblin.cool/misra2004?ext=heatmap&theme=dark" alt="LeetCode Stats" height="300" />
   </a>
   <a href="https://leetcode.com/misra2004" target="_blank">
     <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest" alt="LeetCode Contest Stats" height="300" />
