@@ -1,8 +1,11 @@
-<!-- Header -->
-<h1 align="center">👋 Hello, I'm Ankan Misra</h1>
-
+<!-- Animated Gradient Header Design -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="700" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&customColorList=2,3,5,12,30&text=Ankan%20Misra&animation=fadeIn&fontColor=ffffff&fontSize=55&fontAlignY=42&desc=Software%20Developer%20|%20Part%20Time%20Competitive%20Programmer&descAlignY=68&descAlign=50" width="100%" />
+</p>
+
+<!-- Profile Image with Styling -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="700" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);" />
 </p>
 
 <!-- Introduction -->
