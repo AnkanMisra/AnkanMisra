@@ -58,21 +58,28 @@
 </p>
 
 <!-- LeetCode Section -->
-<h2 align="center">📈 LeetCode Stats</h2>
-<p align="center">
-<!-- LeetCode Badges -->
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="150" />
-<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="150" />
-<img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="50 Days Badge" height="150" />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="Month Badge" height="150" />
-<img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="150" />
+<h2 align="center">🏆 LeetCode Stats</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
+  <!-- LeetCode Badges Row -->
+  <p align="center">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="120" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="120" />
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="25/50 Badge" height="120" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="September Badge" height="120" />
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="120" />
+  </p>
+  
+  <!-- LeetCode Stats Card -->
   <a href="https://leetcode.com/misra2004" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest" alt="LeetCode Contest Stats" height="300" />
+    <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest" alt="LeetCode Contest Stats" width="500" />
   </a>
-</p>
-
+  
+  <!-- Optional: Add a quick summary -->
+  <p align="center">
+    <i>Regular participant in LeetCode contests and daily challenges along with CodeForces</i>
+  </p>
+</div>
 
 ---
 <!-- GitHub Stats -->
