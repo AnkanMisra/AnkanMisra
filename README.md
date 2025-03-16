@@ -11,11 +11,11 @@
 <!-- Introduction -->
 <h2 align="center">✨ About Me</h2>
 <p align="center">
-  🎓 Second-year UG in Computer Science and Business Systems <br/>
-  👨‍💻 Enthusiastic about coding, excelling in competitive programming, and creating innovative projects <br/>
-  🚀 Tech enthusiast who loves iOS, Web and React-Native Development, and AI-based solutions
+  🎓 Second-year Computer Science & Business Systems undergraduate<br/>
+  👨‍💻 Passionate developer with a competitive programming background<br/>
+  🚀 Full-stack enthusiast specializing in iOS, Web, React Native & AI solutions<br/>
+  🔍 Driven by creating tech that solves real-world problems
 </p>
-
 <!-- Quote Section with Improved Styling -->
 <div align="center">
   <div style="
