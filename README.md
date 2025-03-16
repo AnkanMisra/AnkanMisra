@@ -1,15 +1,6 @@
 <!-- Cosmic Glow Header Design -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&customColorList=14,21,25,30&text=Ankan%20Misra&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Swift%20Developer%20|%20Competitive%20Programmer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=1&descSize=24&section=header&textBg=false&rotate=0&reversal=false" width="100%" />
-</p>
-<!-- Skill Badges -->
-<p align="center">
-  <a href="https://github.com/AnkanMisra">
-    <img src="https://img.shields.io/badge/DSA-Expert-8E44AD?style=flat-square&logo=thealgorithms&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/C++-Proficient-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=timeGradient&text=Ankan%20Misra&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Swift%20Developer%20|%20Part%20Time%20CP&descAlignY=55&descAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=1&descSize=24&section=header&textBg=false&rotate=0" width="100%" />
 </p>
 
 <!-- Profile Image with Styling -->
