@@ -5,7 +5,7 @@
 
 <!-- Profile Image with Styling -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="700" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);" />
+  <img src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93" alt="Profile Image" width="800" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);" />
 </p>
 
 <!-- Introduction -->
@@ -30,10 +30,11 @@
     border-top: 1px solid #2d3748;
     border-bottom: 1px solid #2d3748;
     box-shadow: 0 4px 12px rgba(0, 239, 255, 0.1);
-  ">
+  "> 
     <p align="center" style="font-style: italic; font-size: 1.2em; line-height: 1.6;">
-      "Programming is at least as difficult as developing a mathematical theory"
-    </p>
+      
+      Programming is at least as difficult as developing a mathematical theory
+    
   </div>
 </div>
 
