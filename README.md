@@ -86,14 +86,13 @@
 
 <hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
 
-<!-- Github Trophies with Enhanced Display -->
+<!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
   <a href="https://github.com/AnkanMisra">
     <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=nord&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </p>
-
 <hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
 
 <!-- Projects & Achievements with Cards -->
