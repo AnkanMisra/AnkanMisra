@@ -1,6 +1,6 @@
 <!-- Cosmic Glow Header Design -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&customColorList=4,12,30&text=Ankan%20Misra&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Swift%20Developer%20|%20Part%20Time%20Competitive%20Programmer&descAlignY=55&descAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=1&descSize=24&section=header&textBg=false&rotate=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&customColorList=4,12,30&text=Ankan%20Misra&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Swift%20&%20RN%20Developer%20|%20Part%20Time%20Competitive%20Programmer&descAlignY=55&descAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=1&descSize=24&section=header&textBg=false&rotate=0" width="100%" />
 </p>
 
 <!-- Profile Image with Styling -->
