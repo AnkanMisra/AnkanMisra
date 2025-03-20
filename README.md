@@ -84,26 +84,27 @@
 
 <!-- GitHub Stats with Enhanced Cards -->
 <h2 align="center">⚡ GitHub Stats</h2>
+
 <p align="center">
   <a href="https://github.com/AnkanMisra">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AnkanMisra&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00EFFF&icon_color=00EFFF&text_color=FFFFFF" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/AnkanMisra">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanMisra&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00EFFF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkanMisra&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00EFFF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
-<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
-
+<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 40px 0;" />
 <!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
+
 <p align="center">
   <a href="https://github.com/AnkanMisra">
-    <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=nord&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=algolia&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
-<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
 
+<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 40px 0;" />
 <!-- Projects & Achievements with Cards -->
 <h2 align="center">🚀 Projects & Achievements</h2>
 
