@@ -46,27 +46,37 @@
   </a>
 </p>
 
-<!-- LeetCode Section with Enhanced Layout -->
-<h2 align="center">🏆 LeetCode Stats</h2>
-
+<!-- Competitive Programming Stats Section -->
 <div align="center">
-  <!-- LeetCode Badges in Centered Grid -->
-  <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" alt="100 Days Badge" height="120" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="50 Days Badge" height="120" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="25/50 Badge" height="120" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="September Badge" height="120" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="November Badge" height="120" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
+  <h2>🏆 Competitive Programming Stats</h2>
+
+  <!-- LeetCode Section -->
+  <h3>🔥 LeetCode</h3>
+  <p>
+    <img alt="Knight Badge" src="https://assets.leetcode.com/static_assets/others/Knight.gif" 
+         height="100" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
   </p>
-  
-  <!-- LeetCode Stats Card with Shadow -->
-  <a href="https://leetcode.com/misra2004" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest&theme=dark" alt="LeetCode Contest Stats" width="500" style="box-shadow: 0 5px 15px rgba(0, 239, 255, 0.15); border-radius: 10px;" />
-  </a>
-  
-  <!-- Summary with Styled Text -->
-  <p align="center" style="margin-top: 15px; font-style: italic; color: #8a8f98;">
-    Regular participant in LeetCode contests and daily challenges along with CodeForces
+  <p>
+    <a href="https://leetcode.com/misra2004" target="_blank">
+      <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest&theme=dark" 
+           alt="LeetCode Contest Stats" width="500" 
+           style="box-shadow: 0 5px 15px rgba(0, 239, 255, 0.3); border-radius: 10px;" />
+    </a>
+  </p>
+
+  <!-- Codeforces Section -->
+  <h3>⚡ Codeforces</h3>
+  <p>
+    <a href="https://codeforces.com/profile/AnkanMisra" target="_blank">
+      <img src="https://cf.leed.at/?id=AnkanMisra&theme=dark&border=10&radius=12" 
+           alt="Codeforces Stats" width="500"
+           style="box-shadow: 0 5px 15px rgba(255, 165, 0, 0.3); border-radius: 10px;" />
+    </a>
+  </p>
+
+  <!-- Summary -->
+  <p style="margin-top: 15px; font-style: italic; color: #8a8f98;">
+    Passionate about competitive programming <br> Regular participant in LeetCode contests, daily challenges, and Codeforces competitions.
   </p>
 </div>
 
