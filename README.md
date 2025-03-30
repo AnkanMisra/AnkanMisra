@@ -37,29 +37,49 @@
 
 
 <!-- Introduction -->
-<h2 align="center">✨ About Me</h2>
-<p align="center">
-  🎓 Second-year Computer Science & Business Systems undergraduate<br/>
-  👨‍💻 Passionate developer with a competitive programming background<br/>
-  🚀 Full-stack enthusiast specializing in iOS, Web, React Native & AI solutions<br/>
+<h2
+  align="center"
+  style="font-family: 'JetBrains Mono', monospace; font-size: 28px; margin-top: 30px; margin-bottom: 15px;"
+>
+  😶‍🌫️ About Me
+</h2>
+<p
+  align="center"
+  style="font-family: 'JetBrains Mono', monospace; font-size: 18px; line-height: 1.6; color: #444; margin: 0 20px;"
+>
+  🎓 Second-year Computer Science &amp; Business Systems undergraduate<br />
+  👨‍💻 Passionate developer with a competitive programming background<br />
+  🚀 Full-stack enthusiast specializing in iOS, Web, React Native &amp; AI solutions<br />
   🔍 Driven by creating tech that solves real-world problems
 </p>
+
 <!-- Quote Section with Improved Styling -->
 <div align="center">
-  <div style="
-    background-color: #1c1f24;
-    color: #d1d5da;
-    padding: 1.5em 2em;
-    border-radius: 12px;
-    max-width: 650px;
-    margin: 2em auto;
-    border-left: 6px solid #00EFFF;
-    border-right: 1px solid #2d3748;
-    border-top: 1px solid #2d3748;
-    border-bottom: 1px solid #2d3748;
-    box-shadow: 0 4px 12px rgba(0, 239, 255, 0.1);
-  "> 
-    <p align="center" style="font-style: italic; font-size: 1.2em; line-height: 1.6;">
+  <div
+    style="
+      background-color: #1c1f24;
+      color: #d1d5da;
+      padding: 1.5em 2em;
+      border-radius: 12px;
+      max-width: 650px;
+      margin: 2em auto;
+      border-left: 6px solid #00EFFF;
+      border-right: 1px solid #2d3748;
+      border-top: 1px solid #2d3748;
+      border-bottom: 1px solid #2d3748;
+      box-shadow: 0 4px 12px rgba(0, 239, 255, 0.1);
+    "
+  >
+    <p
+      align="center"
+      style="
+        font-family: 'JetBrains Mono', monospace;
+        font-style: italic;
+        font-size: 1.2em;
+        line-height: 1.6;
+        margin: 0;
+      "
+    >
       
       Programming is at least as difficult as developing a mathematical theory
     
