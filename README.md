@@ -96,35 +96,50 @@
 </p>
 
 <!-- Competitive Programming Stats Section -->
-<div align="center">
-  <h2>🏆 Competitive Programming Stats</h2>
+<div align="center" style="margin: 2em auto; max-width: 800px;">
+  <h2 style="margin-bottom: 20px;">🏆 Competitive Programming Stats</h2>
 
   <!-- LeetCode Section -->
-  <h3>🔥 LeetCode</h3>
-  <p>
-    <img alt="Knight Badge" src="https://assets.leetcode.com/static_assets/others/Knight.gif" 
-         height="100" style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;" />
-  </p>
-  <p>
-    <a href="https://leetcode.com/misra2004" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/misra2004?ext=contest&theme=dark" 
-           alt="LeetCode Contest Stats" width="500" 
-           style="box-shadow: 0 5px 15px rgba(0, 239, 255, 0.3); border-radius: 10px;" />
-    </a>
-  </p>
+  <div style="margin-bottom: 40px;">
+    <h3 style="margin-bottom: 10px;">🔥 LeetCode</h3>
+    <p>
+      <img
+        alt="Knight Badge"
+        src="https://assets.leetcode.com/static_assets/others/Knight.gif"
+        height="100"
+        style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;"
+      />
+    </p>
+    <p style="margin-top: 10px;">
+      <a href="https://leetcode.com/misra2004" target="_blank" style="text-decoration: none;">
+        <img
+          src="https://leetcard.jacoblin.cool/misra2004?ext=contest&theme=dark"
+          alt="LeetCode Contest Stats"
+          width="500"
+          style="box-shadow: 0 5px 15px rgba(0, 239, 255, 0.3); border-radius: 10px;"
+        />
+      </a>
+    </p>
+  </div>
 
   <!-- Codeforces Section -->
-  <h3>⚡ Codeforces</h3>
-  <p>
-    <a href="https://codeforces.com/profile/AnkanMisra" target="_blank">
-      <img src="https://cf.leed.at/?id=AnkanMisra&theme=dark&border=10&radius=12" 
-           alt="Codeforces Stats" width="500"
-           style="box-shadow: 0 5px 15px rgba(255, 165, 0, 0.3); border-radius: 10px;" />
-    </a>
-  </p>
+  <div style="margin-bottom: 40px;">
+    <h3 style="margin-bottom: 10px;">⚡ Codeforces</h3>
+    <p style="margin-top: 10px;">
+      <a href="https://codeforces.com/profile/AnkanMisra" target="_blank" style="text-decoration: none;">
+        <img
+          src="https://cf.leed.at/?id=AnkanMisra&theme=dark&border=10&radius=12"
+          alt="Codeforces Stats"
+          width="500"
+          style="box-shadow: 0 5px 15px rgba(255, 165, 0, 0.3); border-radius: 10px;"
+        />
+      </a>
+    </p>
+  </div>
+</div>
 
   <!-- Summary -->
-  <p style="margin-top: 15px; font-style: italic; color: #8a8f98;">
+  <p align="center" ; style="margin-top: 15px; font-style: italic; color: #8a8f98;">
     Passionate about competitive programming <br> Regular participant in LeetCode contests, daily challenges, and Codeforces competitions.
   </p>
 </div>
