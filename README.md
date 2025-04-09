@@ -16,7 +16,10 @@
     style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"
   />
 </p>
-
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkanMisra&style=flat-square&color=00EFFF" alt="Profile Views" />
+</p>
 <!-- Social Media Links -->
 <p align="center">
   <!-- X (formerly Twitter) -->
@@ -240,10 +243,7 @@
   </a>
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkanMisra&style=flat-square&color=00EFFF" alt="Profile Views" />
-</p>
+
 
 <!-- Footer with Inspirational Quote -->
 <p align="center" style="font-style: italic; margin-top: 30px; font-size: 18px; background: linear-gradient(to right, #00EFFF, #43CBFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
