@@ -2,11 +2,12 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&customColorList=4,12,30&text=Ankan%20Misra&fontColor=ffffff&fontSize=80&fontAlignY=35&desc=Swift%20and%20RN%20Developer%20|%20Part%20Time%20CP%20|%20Open%20Source%20Contributor&descAlignY=55&descAlign=50&animation=twinkling&stroke=ffffff&strokeWidth=1&descSize=24&section=header&textBg=false&rotate=0"
-    alt="Ankan Misra"
+    alt="Cosmic Glow Header for Ankan Misra"
     width="100%"
+    loading="lazy"
+    decoding="async"
   />
 </p>
-
 <!-- Profile Image with Improved Styling -->
 <p align="center">
   <img
