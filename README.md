@@ -66,10 +66,9 @@
   Full-stack enthusiast specializing in iOS, Web, React Native &amp; AI solutions<br />
   Driven by creating tech that solves real-world problems
 </p>
-
 <!-- Quote Section with Improved Styling -->
 <div align="center">
-  <div
+  <blockquote
     style="
       background-color: #1c1f24;
       color: #d1d5da;
@@ -77,56 +76,41 @@
       border-radius: 12px;
       max-width: 650px;
       margin: 2em auto;
-      border-left: 6px solid #00EFFF;
-      border-right: 1px solid #2d3748;
-      border-top: 1px solid #2d3748;
-      border-bottom: 1px solid #2d3748;
+      border: 1px solid #2d3748;
+      border-left-width: 6px;
       box-shadow: 0 4px 12px rgba(0, 239, 255, 0.1);
     "
   >
-    <p
-      align="center"
+    <pre
       style="
         font-family: 'JetBrains Mono', monospace;
         font-style: italic;
         font-size: 1.2em;
         line-height: 1.6;
         margin: 0;
+        background: transparent;
+        border: none;
+        white-space: pre-wrap;
       "
-    >
-      Programming is at least as difficult as developing a mathematical theory
-    </p>
-  </div>
+    ><code>Programming is at least as difficult as developing a mathematical theory</code></pre>
+  </blockquote>
 </div>
 
-<!-- Add this <style> block at the top of your file (if your platform supports it) -->
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-      transform: scale(0.95);
-    }
-    100% {
-      opacity: 1;
-      transform: scale(1);
-    }
-  }
-  .animated-graph {
-    animation: fadeIn 2s ease-out forwards;
-  }
-</style>
+
+
 
 <!-- GitHub Activity Graph with Fade In Animation -->
 <h2 align="center">GitHub Activity</h2>
-<p align="center">
+<div align="center">
   <a href="https://github.com/AnkanMisra" target="_blank" rel="noopener noreferrer">
     <img
       class="animated-graph"
-      alt="Activity Graph"
+      alt="GitHub Activity Graph"
       src="https://github-readme-activity-graph.vercel.app/graph?username=AnkanMisra&theme=react-dark&hide_border=true&bg_color=0D1117&line=00EFFF&point=FFFFFF&area=true&area_color=00EFFF"
     />
   </a>
-</p>
+</div>
+
 
 
 <!-- Competitive Programming Stats Section -->
