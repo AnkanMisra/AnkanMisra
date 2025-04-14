@@ -7,13 +7,19 @@
   />
 </p>
 
-<!-- Profile Image with Styling -->
+<!-- Profile Image with Improved Styling -->
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/7cd4b267-f18b-41ae-8d29-0eae182b3e93"
-    alt="Profile Image"
-    width="800"
-    style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"
+    alt="Profile image of Ankan Misra"
+    loading="lazy"
+    decoding="async"
+    style="
+      width: 100%;
+      max-width: 800px;
+      border-radius: 15px;
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    "
   />
 </p>
 
@@ -92,16 +98,35 @@
   </div>
 </div>
 
-<!-- GitHub Activity Graph with Enhanced Theme -->
+<!-- Add this <style> block at the top of your file (if your platform supports it) -->
+<style>
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.95);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+  .animated-graph {
+    animation: fadeIn 2s ease-out forwards;
+  }
+</style>
+
+<!-- GitHub Activity Graph with Fade In Animation -->
 <h2 align="center">GitHub Activity</h2>
 <p align="center">
   <a href="https://github.com/AnkanMisra" target="_blank" rel="noopener noreferrer">
     <img
+      class="animated-graph"
       alt="Activity Graph"
       src="https://github-readme-activity-graph.vercel.app/graph?username=AnkanMisra&theme=react-dark&hide_border=true&bg_color=0D1117&line=00EFFF&point=FFFFFF&area=true&area_color=00EFFF"
     />
   </a>
 </p>
+
 
 <!-- Competitive Programming Stats Section -->
 <div align="center" style="margin: 2em auto; max-width: 800px;">
