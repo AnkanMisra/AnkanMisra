@@ -110,16 +110,21 @@
         alt="Knight Badge"
         src="https://assets.leetcode.com/static_assets/others/Knight.gif"
         height="100"
-        style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px;"
+        style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; max-width: 100%;"
       />
     </p>
     <p style="margin-top: 10px;">
-      <a href="https://leetcode.com/misra2004" target="_blank" style="text-decoration: none;">
+      <a
+        href="https://leetcode.com/misra2004"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="text-decoration: none;"
+      >
         <img
           src="https://leetcard.jacoblin.cool/misra2004?ext=contest&theme=dark"
           alt="LeetCode Contest Stats"
           width="500"
-          style="box-shadow: 0 5px 15px rgba(0, 239, 255, 0.3); border-radius: 10px;"
+          style="box-shadow: 0 5px 15px rgba(0, 239, 255, 0.3); border-radius: 10px; max-width: 100%;"
         />
       </a>
     </p>
@@ -129,25 +134,63 @@
   <div style="margin-bottom: 40px;">
     <h3 style="margin-bottom: 10px;">⚡ Codeforces</h3>
     <p style="margin-top: 10px;">
-      <a href="https://codeforces.com/profile/AnkanMisra" target="_blank" style="text-decoration: none;">
+      <a
+        href="https://codeforces.com/profile/AnkanMisra"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="text-decoration: none;"
+      >
         <img
           src="https://cf.leed.at/?id=AnkanMisra&theme=dark&border=10&radius=12"
           alt="Codeforces Stats"
           width="500"
-          style="box-shadow: 0 5px 15px rgba(255, 165, 0, 0.3); border-radius: 10px;"
+          style="box-shadow: 0 5px 15px rgba(255, 165, 0, 0.3); border-radius: 10px; max-width: 100%;"
+        />
+      </a>
+    </p>
+  </div>
+
+  <!-- GeeksforGeeks Section -->
+  <div style="margin-bottom: 40px;">
+    <h3 style="margin-bottom: 10px;">💡 GeeksforGeeks</h3>
+    <p>
+      <img
+        alt="GeeksforGeeks Logo"
+        src="https://upload.wikimedia.org/wikipedia/commons/2/23/Geeksforgeeks.svg"
+        height="100"
+        style="box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-radius: 8px; max-width: 100%;"
+      />
+    </p>
+    <p style="margin-top: 10px;">
+      <a
+        href="https://www.geeksforgeeks.org/user/ankanmisra/"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="text-decoration: none;"
+      >
+        <img
+          src="https://img.shields.io/badge/Visit-GeeksforGeeks-00b3b3?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
+          alt="GeeksforGeeks Profile"
+          style="box-shadow: 0 5px 15px rgba(0, 179, 179, 0.3); border-radius: 10px;"
         />
       </a>
     </p>
   </div>
 </div>
 
-  <!-- Summary -->
-  <p align="center" ; style="margin-top: 15px; font-style: italic; color: #8a8f98;">
-    Passionate about competitive programming <br> Regular participant in LeetCode contests, daily challenges, and Codeforces competitions.
-  </p>
-</div>
+<!-- Summary -->
+<p
+  align="center"
+  style="margin-top: 15px; font-style: italic; color: #8a8f98;"
+>
+  Passionate about competitive programming <br>
+  Regular participant in LeetCode contests, daily challenges, Codeforces competitions,<br>
+  and GeeksforGeeks problem solving.
+</p>
 
-<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
+<hr
+  style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;"
+/>
 
 <!-- GitHub Stats with Enhanced Cards -->
 <h2 align="center">⚡ GitHub Stats</h2>
