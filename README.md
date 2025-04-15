@@ -232,17 +232,30 @@
 
 <!-- GitHub Trophies -->
 <h2 align="center">GitHub Trophies</h2>
-<p align="center">
+<div align="center" style="margin: 20px auto; max-width: 800px;">
   <a href="https://github.com/AnkanMisra" target="_blank" rel="noopener noreferrer">
     <img
       src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=algolia&no-frame=true&margin-w=8&margin-h=8&row=1&column=6"
       alt="GitHub Trophies"
+      loading="lazy"
+      style="
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      "
     />
   </a>
-</p>
+</div>
 
 <hr
-  style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 40px 0;"
+  style="
+    height: 2px;
+    background: linear-gradient(to right, transparent, #00EFFF, transparent);
+    border: none;
+    margin: 40px 0;
+  "
 />
 
 <!-- Projects & Achievements with Cards -->
