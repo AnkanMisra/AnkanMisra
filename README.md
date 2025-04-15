@@ -8,6 +8,7 @@
     decoding="async"
   />
 </p>
+
 <!-- Profile Image with Improved Styling -->
 <p align="center">
   <img
@@ -15,12 +16,7 @@
     alt="Profile image of Ankan Misra"
     loading="lazy"
     decoding="async"
-    style="
-      width: 100%;
-      max-width: 800px;
-      border-radius: 15px;
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
-    "
+    style="width: 100%; max-width: 800px; border-radius: 15px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);"
   />
 </p>
 
@@ -34,14 +30,12 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <!-- X (formerly Twitter) -->
   <a href="https://x.com/ShadowRage11" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white"
       alt="X"
     />
   </a>
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ankanmisra" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -51,10 +45,7 @@
 </p>
 
 <!-- Introduction -->
-<h2
-  align="center"
-  style="font-family: 'JetBrains Mono', monospace; font-size: 28px; margin-top: 30px; margin-bottom: 15px;"
->
+<h2 align="center" style="font-family: 'JetBrains Mono', monospace; font-size: 28px; margin-top: 30px; margin-bottom: 15px;">
   About Me
 </h2>
 <p
@@ -66,40 +57,18 @@
   Full-stack enthusiast specializing in iOS, Web, React Native &amp; AI solutions<br />
   Driven by creating tech that solves real-world problems
 </p>
+
 <!-- Quote Section with Improved Styling -->
 <div align="center">
   <blockquote
-    style="
-      background-color: #1c1f24;
-      color: #d1d5da;
-      padding: 1.5em 2em;
-      border-radius: 12px;
-      max-width: 650px;
-      margin: 2em auto;
-      border: 1px solid #2d3748;
-      border-left-width: 6px;
-      box-shadow: 0 4px 12px rgba(0, 239, 255, 0.1);
-    "
+    style="background-color: #1c1f24; color: #d1d5da; padding: 1.5em 2em; border-radius: 12px; max-width: 650px; margin: 2em auto; border: 1px solid #2d3748; border-left-width: 6px; box-shadow: 0 4px 12px rgba(0, 239, 255, 0.1);"
   >
     <pre
-      style="
-        font-family: 'JetBrains Mono', monospace;
-        font-style: italic;
-        font-size: 1.2em;
-        line-height: 1.6;
-        margin: 0;
-        background: transparent;
-        border: none;
-        white-space: pre-wrap;
-      "
+      style="font-family: 'JetBrains Mono', monospace; font-style: italic; font-size: 1.2em; line-height: 1.6; margin: 0; background: transparent; border: none; white-space: pre-wrap;"
     ><code>Programming is at least as difficult as developing a mathematical theory</code></pre>
   </blockquote>
 </div>
 
-
-
-
-<!-- GitHub Activity Graph with Fade In Animation -->
 <h2 align="center">GitHub Activity</h2>
 <div align="center">
   <a href="https://github.com/AnkanMisra" target="_blank" rel="noopener noreferrer">
@@ -110,8 +79,6 @@
     />
   </a>
 </div>
-
-
 
 <!-- Competitive Programming Stats Section -->
 <div align="center" style="margin: 2em auto; max-width: 800px;">
@@ -238,24 +205,13 @@
       src="https://github-profile-trophy.vercel.app/?username=AnkanMisra&theme=algolia&no-frame=true&margin-w=8&margin-h=8&row=1&column=6"
       alt="GitHub Trophies"
       loading="lazy"
-      style="
-        display: block;
-        width: 100%;
-        max-width: 100%;
-        border-radius: 8px;
-        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-      "
+      style="display: block; width: 100%; max-width: 100%; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);"
     />
   </a>
 </div>
 
 <hr
-  style="
-    height: 2px;
-    background: linear-gradient(to right, transparent, #00EFFF, transparent);
-    border: none;
-    margin: 40px 0;
-  "
+  style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 40px 0;"
 />
 
 <!-- Projects & Achievements with Cards -->
@@ -270,21 +226,18 @@
     <h3 style="margin-top: 0;">Image Gallery App</h3>
     <p>Built a complete end-to-end Image Gallery App using Flickr API</p>
   </div>
-
   <div
     style="background: #1a1b27; border-radius: 10px; padding: 15px; width: 280px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-left: 4px solid #00EFFF;"
   >
     <h3 style="margin-top: 0;">Construction Monitor</h3>
     <p>Built a drone-based construction progress monitoring system</p>
   </div>
-
   <div
     style="background: #1a1b27; border-radius: 10px; padding: 15px; width: 280px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-left: 4px solid #00EFFF;"
   >
     <h3 style="margin-top: 0;">UNO Web Game</h3>
     <p>Working on an online multiplayer UNO web game</p>
   </div>
-
   <div
     style="background: #1a1b27; border-radius: 10px; padding: 15px; width: 280px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border-left: 4px solid #00EFFF;"
   >
@@ -345,11 +298,11 @@
   <img src="https://img.shields.io/badge/Open_Source-Contributions-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributions" />
 </p>
 
-<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
+<hr style="height:2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border:none; margin:30px 0;" />
 
 <!-- Tools and Platforms with Enhanced Layout -->
 <h2 align="center">Tools & Platforms</h2>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px; margin:20px 0;">
   <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -367,39 +320,26 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-<hr style="height: 2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border: none; margin: 30px 0;" />
-
+<hr style="height:2px; background: linear-gradient(to right, transparent, #00EFFF, transparent); border:none; margin:30px 0;" />
 
 <!-- Connect With Me Section with Enhanced Buttons -->
 <h2 align="center">Connect with Me</h2>
-<p
-  align="center"
-  style="display: flex; justify-content: center; gap: 20px; margin: 25px 0;"
->
+<p align="center" style="display:flex; justify-content:center; gap:20px; margin:25px 0;">
   <a href="https://www.linkedin.com/in/ankanmisra/" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:misra13arko@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/AnkanMisra" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <!-- Footer with Inspirational Quote -->
 <p
   align="center"
-  style="font-style: italic; margin-top: 30px; font-size: 18px; background: linear-gradient(to right, #00EFFF, #43CBFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
+  style="font-style: italic; margin-top:30px; font-size:18px; background: linear-gradient(to right, #00EFFF, #43CBFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"
 >
   "Code. Create. Innovate."
 </p>
