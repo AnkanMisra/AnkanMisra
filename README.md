@@ -140,11 +140,12 @@
   <img src="https://img.shields.io/badge/🧩%20Problem%20Solver-700+-FF6B6B?style=for-the-badge" alt="Problem Solver" />
 </div>
 </div>
+
 ---
 
-### 📈 Programming Journey
-
 <div align="center">
+
+### 📈 Programming Journey
 
 <table>
 <tr>
@@ -172,13 +173,6 @@
 </table>
 
 </div>
-
----
-
-*🚀 "In competitive programming, every problem is a puzzle waiting to be solved!"*
-
-**💡 Always learning, always competing, always improving!**
-
 </div>
 
 ---
