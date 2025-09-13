@@ -52,7 +52,7 @@
   align="center"
   style="font-family: 'JetBrains Mono', monospace; font-size: 18px; line-height: 1.6; color: #444; margin: 0 20px;"
 >
-  Second-year Computer Science &amp; Business Systems undergraduate<br />
+  Third-year Computer Science &amp; Business Systems undergraduate<br />
   Passionate developer with a competitive programming background<br />
   Full-stack enthusiast specializing in iOS, Web, React Native &amp; AI solutions<br />
   Driven by creating tech that solves real-world problems
