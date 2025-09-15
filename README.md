@@ -131,52 +131,6 @@
 </div>
 
 ---
-
-### 🏅 Achievements
-<div align="center">
-  <img src="https://img.shields.io/badge/🏆%20Knight%20Badge-LeetCode-FFA116?style=for-the-badge" alt="Knight Badge" />
-  <img src="https://img.shields.io/badge/🎯%20Contest%20Participant-Regular-1F8ACB?style=for-the-badge" alt="Contest Participant" />
-  <img src="https://img.shields.io/badge/⚡%20Daily%20Challenger-Active-298D46?style=for-the-badge" alt="Daily Challenger" />
-  <img src="https://img.shields.io/badge/🧩%20Problem%20Solver-700+-FF6B6B?style=for-the-badge" alt="Problem Solver" />
-</div>
-</div>
-
----
-
-<div align="center">
-
-### 📈 Programming Journey
-
-<table>
-<tr>
-<th align="center">🎯 Current Focus</th>
-<th align="center">📊 Goals</th>
-</tr>
-<tr>
-<td align="center">
-
-✅ Daily LeetCode challenges<br>
-⚡ Codeforces contests participation<br>
-🧠 Algorithm optimization<br>
-🔧 Data structures mastery
-
-</td>
-<td align="center">
-
-🏆 Reach Expert on Codeforces<br>
-📈 Solve 1000+ LeetCode problems<br>
-🎯 Participate in ICPC regionals<br>
-🤝 Contribute to CP community
-
-</td>
-</tr>
-</table>
-
-</div>
-</div>
-
----
-
 <!-- GitHub Stats with Enhanced Cards -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -212,51 +166,6 @@
 </div>
 
 <hr style="height: 2px; background: linear-gradient(to right, transparent, #58a6ff, transparent); border: none; margin: 40px 0;" />
-
-<div align="center">
-
-## 🚀 Projects & Achievements
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 📸 Image Gallery App
-Built a complete end-to-end Image Gallery App using Flickr API
-- **Tech Stack:** React, Node.js, Flickr API
-- **Features:** Search, Filter, Responsive UI
-
-</td>
-<td width="50%" align="center">
-
-### 🏗️ Construction Monitor
-Built a drone-based construction progress monitoring system
-- **Tech Stack:** Python, Computer Vision, IoT
-- **Features:** Real-time monitoring, Progress tracking
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 🎮 UNO Web Game
-Working on an online multiplayer UNO web game
-- **Tech Stack:** React, Socket.io, Node.js
-- **Features:** Real-time multiplayer, Chat system
-
-</td>
-<td width="50%" align="center">
-
-### 🏆 Hackathon Winner
-Top 10 in a local college hackathon with a real-time chat app
-- **Achievement:** Local College Hackathon
-- **Project:** Real-time chat application
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 <div align="center">
@@ -447,25 +356,6 @@ Top 10 in a local college hackathon with a real-time chat app
 <!---Profile Footer ---->
 <div align="center">
 
-### 💫 *"Code. Create. Innovate."* 💫
+### ***Code. Create. Innovate***
 
-🚀 **Building the future, one line of code at a time** 🚀
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Always+learning+new+technologies;Building+amazing+projects;Open+to+collaborate+and+learn;Let's+code+something+amazing!" alt="Typing SVG" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://ankanmisra.me)
-[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankanmisra)
-[![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankan.misra.work@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1-Bh12h8h_Iqxx1cZnfNZWhzaQIRYyb53Yd_bDbLjGco/edit?usp=sharing)
-
-![Profile views](https://komarev.com/ghpvc/?username=AnkanMisra&color=58a6ff&style=for-the-badge&label=Profile+Views)
-
-*✨ Always learning, always growing, always coding ✨*
-
-**💼 Open to new opportunities and collaborations! 💼**
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </div>
