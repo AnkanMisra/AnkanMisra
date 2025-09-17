@@ -1,3 +1,1 @@
-I like building and contrubuting to anything i like
-
-Jack of All Trades,Master of None
+I build and contribute to projects that i use and love to work, Jack of All Trades But Master of None
