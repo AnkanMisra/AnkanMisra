@@ -2,7 +2,7 @@
   <h1>
     <img src="catjam-cat.gif" alt="Cat Jam" width="30"> &nbsp;My PoW&nbsp; <img src="https://github.com/4rjunc/4rjunc/raw/main/cat.gif" alt="Cat GIF" width="30">
   </h1>
-  <h3> Currently i do software // web3 / rust / solidity // web2 / ai/ml (sometimes) <h3>
+  <h3> Currently i do software // web3 / cp / rust / solidity // web2 / ai/ml (sometimes) <h3>
   <br/>
 </div>
 
