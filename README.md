@@ -16,5 +16,4 @@
 
 <div align="center">
   <img src="meow.gif" alt="Meow">
-  <p><i>Have good day ❤️</i></p>
 </div>
