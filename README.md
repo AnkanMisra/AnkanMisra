@@ -1,19 +1,19 @@
 <div align="center">
-  <h1>
-    <img src="catjam-cat.gif" alt="Cat Jam" width="30"> &nbsp;My PoW&nbsp; <img src="https://github.com/4rjunc/4rjunc/raw/main/cat.gif" alt="Cat GIF" width="30">
-  </h1>
-  <h3> Currently i do software // web3 / rust / solidity // web2 / ai/ml (sometimes) <h3>
-  <br/>
-</div>
 
----
+<h1>
+  <img src="./catjam-cat.gif" width="32" />
+  &nbsp; ~/work &nbsp;
+  <img src="https://github.com/4rjunc/4rjunc/raw/main/cat.gif" width="32" />
+</h1>
 
-<div align="center">
-  Love to build and contribute to projects that i use and love to work, Jack of All Trades But Master of None
-</div>
+<p>
+  <code>probably compiling rust code 🦀</code>
+  &nbsp;
+  <img src="./ferris.gif" width="28" />
+</p>
 
----
+<br />
 
-<div align="center">
-  <img src="meow.gif" alt="Meow">
+<img src="./meow.gif" width="420" />
+
 </div>
